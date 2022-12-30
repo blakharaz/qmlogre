@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# CMake
+CMakeLists.txt.user
+
+# qmake
+*.pro.user
